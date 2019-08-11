@@ -7,4 +7,6 @@ Run `python main.py <options>`.
 How to inference:
 Run 'python test.py'
 
+the result of inference:
 ![image](https://github.com/Andy-zhujunwen/pytoch-FCN-train-inference-/blob/master/s1.jpeg)
+![image](https://github.com/Andy-zhujunwen/pytoch-FCN-train-inference-/blob/master/test_street.png)
