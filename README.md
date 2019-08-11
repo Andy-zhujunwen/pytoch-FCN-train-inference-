@@ -6,3 +6,5 @@ Run `python main.py <options>`.
 
 How to inference:
 Run 'python test.py'
+
+![image](https://github.com/Andy-zhujunwen/pytoch-FCN-train-inference-/blob/master/s1.jpeg)
