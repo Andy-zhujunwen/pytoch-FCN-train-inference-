@@ -10,3 +10,5 @@ Run 'python test.py'
 the result of inference:
 ![image](https://github.com/Andy-zhujunwen/pytoch-FCN-train-inference-/blob/master/s1.jpeg)
 ![image](https://github.com/Andy-zhujunwen/pytoch-FCN-train-inference-/blob/master/test_street.png)
+
+CSDN ：https://blog.csdn.net/u014453898/article/details/99093726
